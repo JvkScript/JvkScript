@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaokienen
 - 🌱 I’m currently learning about CyberSecurity
-- 📫 How to reach me: joaovictorkienen@gmail.com
+- 📫 How to reach me: keijomina@gmail.com
 
 <!---
 joaokienen/joaokienen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
