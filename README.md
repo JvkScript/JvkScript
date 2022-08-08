@@ -1,4 +1,4 @@
-- ☣️ Watch out, I'm here
+## Hey! João Kienen - CYBERSECURITY
 
   ##
 
@@ -14,6 +14,8 @@
    <img height="77em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaokienen&repo=JVKSCRIPT.ME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="79em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaokienen&repo=SHELL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
+  
+  ##
   
 <div>
   <a href="https://www.linkedin.com/in/jkienen" target="_blank">
