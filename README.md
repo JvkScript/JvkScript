@@ -1,12 +1,12 @@
 ```diff
-[?] Who are you? in white
-[-] text in red
+[?] Who are you?
+- text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
 ```
- 
+ <p style='color:red'>This is some red text.</p>
 ☣ CYBERSECURITY ☣
 
   ##
