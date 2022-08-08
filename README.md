@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/joaokienen">
-   <img height="100px" src="https://github-readme-stats.vercel.app/api?username=joaokienen"/>
+   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=joaokienen"/>
 </div> 
  
 <div>
