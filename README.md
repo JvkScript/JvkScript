@@ -1,7 +1,9 @@
 ```diff
-# text in gray
+# Hey, João Kienen
+# CyberSecurity
+
+# Nada permanece, tudo se transforma.. 
 ```
-☣ CYBERSECURITY ☣
 
   ##
 
