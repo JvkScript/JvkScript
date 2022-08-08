@@ -1,9 +1,9 @@
 ```diff
 [?] Who are you?
-# [-] Zipo (and bold)
+# [-] Zipo
 + [+] Fauno
 ! [+] Vilgax
-@@ [+] Atlas @@
+@@ [+] Atlas
 ``
 ☣ CYBERSECURITY ☣
 
