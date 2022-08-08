@@ -12,7 +12,7 @@
   <a href="https://github.com/joaokienen">
   <img height="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=joaokienen&repo=PHISHING&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=joaokienen&repo=JVKSCRIPT.ME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=joaokienen&repo=SHELL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=joaokienen&repo=SHELL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
   
 <div>
