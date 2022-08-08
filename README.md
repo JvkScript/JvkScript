@@ -1,10 +1,4 @@
-```diff
-[?] Who are you?
-# [-] Zipo
-+ [+] Fauno
-! [+] Vilgax
-@@ [+] Atlas
-``
+
 ☣ CYBERSECURITY ☣
 
   ##
