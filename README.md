@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/joaokienen">
-   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=joaokienen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokienen&layout=compact&langs_count=7&theme=dark"/>
+   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=joaokienen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokienen&layout=compact&langs_count=7&theme=dark"/>
 </div> 
  
 <div>
