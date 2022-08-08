@@ -1,5 +1,6 @@
 ```diff
-- text in red
+[?] Who are you? in white
+[-] text in red
 + text in green
 ! text in orange
 # text in gray
