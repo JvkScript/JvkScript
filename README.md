@@ -1,6 +1,6 @@
 ```diff
 # Hey, João Kienen
-# CyberSecurity
+# ---
 
 # Zipo > ./Hero ./Aurora ./Vilgax ./Atlas ./Texugo ./Fauno 
 ```
