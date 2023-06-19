@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/joaokienen">
    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joaokienen"/>
-    <img height="180px" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=joaokienen&layout=compact"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokienen&layout=compact"/>
 </div> 
  
 <div>
