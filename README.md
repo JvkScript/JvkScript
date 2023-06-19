@@ -9,6 +9,6 @@
   
 <div>
   <a href="https://github.com/joaokienen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokienen&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokienen&theme=dark&layout=compact"/>
 </div> 
 
