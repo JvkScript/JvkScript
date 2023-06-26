@@ -1,5 +1,5 @@
 ```diff
-# Hey, João Kienen
+# Hey, JvkScript
 # ---
 
 # Zipo > ./Hero ./Aurora ./Vilgax ./Atlas ./Texugo ./Fauno 
