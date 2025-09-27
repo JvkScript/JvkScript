@@ -1,6 +1,6 @@
 ```diff
 # Hey, JvkScript
-# -->
+# ->
 
 # -----> https://JvkScript.me/
 ```
