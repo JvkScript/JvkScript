@@ -13,7 +13,7 @@
 
 ```
 
-| Psique  | Características         |
+| Psiques         |
 |---------|--------------------------|
 | _[/Atlas](https://jvkScript.me/atlas)_   | Culpa / Luto             |
 | Aurora  | Amor / Esperança         |
