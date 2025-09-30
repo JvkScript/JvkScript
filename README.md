@@ -13,7 +13,7 @@
 
 ```
 
-| Arquétipo                                | Psique                   |
+| Arquétipo | Psique                   |
 |------------------------------------------|--------------------------|
 | _[/Atlas](https://jvkScript.me/atlas)_   | Culpa / Luto             |
 | _[/Aurora](https://jvkScript.me/aurora)_ | Amor / Esperança         |
