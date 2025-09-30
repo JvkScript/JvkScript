@@ -4,12 +4,12 @@
 # -----> https://JvkScript.me
 
 # > Psiques:
-# Atlas: Psique: Culpa/Luto
-# Aurora: Psique: Amor/Esperança
-# Fauno: Psique: Lógico/Racional
-# Hero: Psique: Mediador/Social
-# Texugo: Psique: Delírio/Poeta
-# Vilgax: Psique: Orgulho/Raiva
+# Atlas: Culpa/Luto
+# Aurora: Amor/Esperança
+# Fauno: Lógico/Racional
+# Hero: Mediador/Social
+# Texugo: Delírio/Poeta
+# Vilgax: Orgulho/Raiva
 
 ```
 
