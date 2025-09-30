@@ -15,7 +15,7 @@
 
 | Psique  | Características         |
 |---------|--------------------------|
-| Atlas   | Culpa / Luto             |
+| _[/Atlas](https://jvkScript.me/atlas)_   | Culpa / Luto             |
 | Aurora  | Amor / Esperança         |
 | Fauno   | Lógico / Racional        |
 | Hero    | Mediador / Social        |
