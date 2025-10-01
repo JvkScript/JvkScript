@@ -4,10 +4,10 @@
 # -----> https://JvkScript.me
 # > Modo: Yin
 
-# /Atlas: Culpa/Luto
+# /Atlas:  Culpa/Luto
 # /Aurora: Amor/Esperança
-# /Fauno: Lógico/Racional
-# /Hero: Mediador/Social
+# /Fauno:  Lógico/Racional
+# /Hero:   Mediador/Social
 # /Texugo: Delírio/Poeta
 # /Vilgax: Orgulho/Raiva
 ```
